@@ -1,6 +1,6 @@
-# 附录7、比特币浏览器命令
+# 附录6 比特币浏览器命令
 
-Bitcoin Explorer（bx）是一个命令行工具，提供了各种用于密钥管理和交易构建的命令。 它是libbitcoin比特币库的一部分。
+Bitcoin Explorer(bx) 是一个命令行工具，提供了各种用于密钥管理和交易构建的命令。 它是libbitcoin比特币库的一部分。
 
 ```
 Usage: bx COMMAND [--help]
